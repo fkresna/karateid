@@ -1,3 +1,20 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://karateid.com"
+languageCode = "id"
+title = "Karate ID"
+theme = "ananke"
+googleAnalytics = ""
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  title = "Freddy Tjoenedi"
+  description = "Informasi mengenai teknik dan sejarah karate atau bela diri pada umumnya."
+  facebook = "https://www.facebook.com/karateid/"
+  featured_image = ""
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
