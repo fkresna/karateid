@@ -10,7 +10,6 @@ googleAnalytics = ""
   filename = "sitemap.xml"
 
 [params]
-  title = "Freddy Tjoenedi"
   description = "Informasi mengenai teknik dan sejarah karate atau bela diri pada umumnya."
   facebook = "https://www.facebook.com/karateid/"
   featured_image = ""
