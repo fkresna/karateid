@@ -4,7 +4,7 @@ date = "2017-10-28"
 tags = ["sejarah","kobudo"]
 description = "Sejarah dari karate, Apa itu kobudo? and senjata apa yang dipergunakan dalam kobudo "
 +++
-
+ 
   Apa itu karate? Sensei saya dulu mengajarkan bahwa arti dari karate(空手) adalah tangan kosong dan Karate adalah beladiri yang berasal dari Okinawa yang kemudian dibawa ke Jepang oleh Gichin Funakoshi, Pendiri dari aliran Shotokan. Ini adalah arti dari Karate yang diketahui oleh orang pada umumnya.
 
   Dalam kurang lebih satu tahun belakangan mempelajari Okinawan karate ternyata arti dari Karate sedikit berbeda dengan apa yang selama ini saya tahu. Ternyata di Okinawa, Karate juga belajar mengenai senjata, Senjata yang umumnya dipakai adalah Bo, Sai, Tonfa, Nunchaku, Kama, Eku-Bo dan masih ada beberapa yang lainnya. Hal ini disebut Kobudo.

@@ -2,7 +2,7 @@ baseurl = "http://karateid.com"
 languageCode = "id"
 title = "Karate ID"
 theme = "ananke"
-googleAnalytics = ""
+googleAnalytics = "UA-111647594-1"
 
 [sitemap]
   changefreq = "monthly"
